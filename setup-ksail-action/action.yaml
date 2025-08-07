@@ -6,7 +6,7 @@ runs:
   using: "composite"
   steps:
     - name: 📦 Setup Homebrew
-      uses: Homebrew/actions/setup-homebrew@6c79ae0677a9b0b8046a936b4ada8980885eafb8 # main
+      uses: Homebrew/actions/setup-homebrew@24a0b15df658487e137fcd20fba32757d41a9411 # main
 
     - name: ⤵️ Install KSail
       shell: bash

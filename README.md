@@ -38,4 +38,3 @@ flowchart TD
 - **[Setup KSail Action](setup-ksail-action/README.md)** - Installs KSail CLI via Homebrew
 - **[Sync Labels Action](sync-labels-action/README.md)** - Sync GitHub labels
 - **[TODOs Action](todos-action/README.md)** - A composite action to create GitHub issues from TODO comments
-- **[Zizmor Action](zizmor-action/README.md)** - Run security analysis of GitHub Actions on your repository using zizmor 🌈
